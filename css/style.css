@@ -1,0 +1,704 @@
+body{ margin :0 auto ;padding: 0 auto;}
+
+.head {
+    float: left;
+    width: 100%;
+    text-align: center;
+    background-color: #150D49;
+   
+   
+}
+ .head p {
+    font-family: Roboto;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+  }
+  .head a {
+    color: #F5D032;
+  }
+  /**headends**/
+
+  .header {
+    float: left;
+    width: 100%;
+  }
+  .img {
+    float: left;
+    width: 7%;
+    margin-top: 0.5em;
+    margin-left: 4em;
+  }
+  .menu li {
+    display: inline;
+    padding: 0.8em;
+    cursor: pointer;
+  }
+  .menu span {
+    color: #F0483E;
+  }
+  .menu {
+    float: right;
+    width: 50%;
+    margin-top: 0.7em;
+    margin-right: 0.5em;
+    font-family: roboto;
+    font-size: 15px;
+    font-weight: 420;
+    text-transform: capitalize;
+  }
+  .img2 {
+    width: 2.8%;
+    position: relative;
+    top: 0.19em;
+    right: 0.3em;
+  }
+  /**headerends**/
+  .header1 {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-top: 3.5em;
+  }
+  .header1 h1 {
+    font-family: roboto;
+    font-size: 39px;
+    font-weight: 600;
+  }
+  .header1 p {
+    font-family: roboto;
+    font-size: 19px;
+    font-weight: 400;
+    margin-left: 14em;
+    margin-right: 15em;
+  }
+  /**header1ends**/
+  .app {
+    float: left;
+    width: 100%;
+    margin-top: 0em;
+  }
+  .app1 {
+    float: left;
+    width: 50%;
+    margin-top: 0em;
+    background-image: linear-gradient(to right,#E8F4FF,white);
+    padding-top: 5em;
+    padding-bottom: 4.8em;
+  }
+  .pic {
+    float: left;
+    width: 30%;
+  }
+  h6 {
+    text-align: center;
+    letter-spacing: 0.29em;
+  }
+  .app2 {
+    float: right;
+    width: 50%;
+  }
+  .app2\.1 {
+    float: left;
+    width: 50%;
+    border-bottom: solid 1px #F2F2F2;
+  }
+  .app2\.2 {
+    float: right;
+    width: 49%;
+    border-bottom: solid 1px #F2F2F2;
+    border-left: solid 1px #F2F2F2;
+  } 
+  .pagecenter {
+    float: none;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 90%;
+  }
+  .h6 {
+    float: left;
+    width: 100%;
+    margin-top: 4em;
+    font-family: roboto;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .app2\.4 {
+    float: right;
+    width: 46%;
+  }
+  .app2\.3 {
+    float: left;
+    width: 51%;
+    border-right: solid 1px #F2F2F2;
+  }
+  .photos {
+    float: left;
+    width: 50%;
+  }
+  .text {
+    float: right;
+    width: 50%;
+  }
+  .app h4 {
+    font-family: roboto;
+    font-size: 19px;
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+  .app p {
+    font-family: roboto;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .app img {
+    position: relative;
+    top: 3em;
+    left: 2.5em;
+  }
+  .pp {
+    margin-top: 4em;
+    margin-left: 4.5em;
+  }
+  .btn1 {
+    text-transform: uppercase;
+    margin: 0.5em;
+    color: #41BEF7;
+    border: solid 1px #41BEF7;
+    padding: 0.5em;
+    font-family: roboto;
+    font-size: 10px;
+    font-weight: 400;
+    background-color: white;
+    cursor: pointer;
+  }
+  .btn {
+    font-family: roboto;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-color: #F0483E;
+    color: white;
+    padding-top: 1em;
+    margin: 1em;
+    border: solid 1px #F0483E;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    cursor: pointer;
+  }
+  .btn2 {
+    text-transform: uppercase;
+    margin: 0.5em;
+    color: #41BEF7;
+    border: solid 1px #41BEF7;
+    padding: 0.5em;
+    font-family: roboto;
+    font-size: 10px;
+    font-weight: 400;
+    background-color: white;
+    position: relative;
+    top: 1.7em;
+    cursor: pointer;
+  }
+  .app3\.2 {
+    float: right;
+    width: 49%;
+    border-bottom: solid 1px #F2F2F2;
+    border-left: solid 1px #F2F2F2;
+    padding-bottom: 1em;
+  }
+  .app3 {
+    float: left;
+    width: 50%;
+    margin-top: 0em;
+    background-image: linear-gradient(to right,#FEE,white);
+    padding-top: 5em;
+    padding-bottom: 4.8em;
+  }
+  .hh6 {
+    font-size: 15px;
+    font-family: roboto;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+  }
+  /**appends**/
+
+  .bodysection {
+    float: left;
+    width: 100%;
+    border: solid 1px #F2F2F2;
+    margin-top: 6em;
+    padding-bottom: 2em;
+    margin-bottom: 2em;
+  }
+  .bodysection h5 {
+    text-align: center;
+    background-color: white;
+    color: black;
+    width: 10%;
+    position: relative;
+    left: 34em;
+    bottom: 3.4em;
+    font-size: 16px;
+    font-family: roboto;
+    font-weight: 600;
+    letter-spacing: 0.3em;
+    padding: 1em;
+  }
+  .bs1 {
+    float: left;
+    width: 100%;
+    padding-top: 0em;
+    margin-top: -4em;
+    border-bottom: solid 1px #F2F2F2;
+    margin-bottom: 2em;
+  }
+  .bs1\.1 {
+    float: left;
+    width: 20%;
+    text-transform: capitalize;
+    font-family: roboto;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 2em;
+  }
+  .bs1\.1 h3 {
+    margin-top: 0em;
+    color: #333;
+   
+    font-size: 20px;
+  }
+  .bs1\.2 {
+    float: right;
+    width: 77%;
+    font-size: 17px;
+    font-family: roboto;
+    font-weight: 400;
+  }
+  .bs1\.2 h6 {
+    font-size: 14px;
+    font-family: roboto;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .bs2\.1 {
+    float: left;
+    width: 100%;
+    margin-top: 2em;
+  }
+  .abc {
+    float: left;
+    width: 33.3%;
+    position: relative;
+    right: -2em;
+    bottom: 0em;
+  }
+  
+    .abc1 {
+      float: left;
+      width: 31.3%;
+      margin-left: -2em;
+    }
+  .abc2 {
+    float: left;
+    width: 33.3%;
+    margin-left: -2em;
+  }
+  .abcimg {
+    float: left;
+    width: 35%;
+    position: relative;
+    left: 5em;
+    top: 1em;
+  }
+  .bs2\.1 h6 {
+    font-size: 14px;
+    font-family: roboto;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 0em;
+  }
+  .text {
+    float: right;
+    width: 46%;
+    font-family: roboto;
+    font-size: 16px;
+  }
+  .bs2\.1 {
+    float: left;
+    width: 106%;
+    margin-top: 0em;
+    margin-left: -1em;
+  }
+  .abcimg1 {
+    float: left;
+    width: 35%;
+    position: relative;
+    left: 5em;
+    top: 1.39em;
+  }
+/* bodysectionends*/
+.appsection {
+  float: left;
+  width: 100%;
+  margin-top: 4em;
+  text-align: center;
+  font-family: roboto;
+}
+.appsection1 {
+  float: left;
+  width: 33.3%;
+  border-right: solid 1.5px #F2F2F2;
+  padding: 1em;
+  margin-top: -0.8em;
+  padding-bottom: 2em;
+}
+.appsection2 {
+  float: left;
+  width: 26.3%;
+  border-right: solid 1.5px #F2F2F2;
+  padding-bottom: 2em;
+  margin-left: 1em;
+  padding-right: 2em;
+}
+.appsection3 {
+  float: right;
+  width: 26.3%;
+  margin-right: 3em;
+  margin-top: -0.5em;
+  padding-bottom: 2em;
+}
+.appsection h5 {
+  text-align: center;
+  font-family: roboto;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  margin-bottom: 2em;
+}
+.appsection p {
+  font-size: 17px;
+  line-height: 1.7em;
+  font-weight: 400;
+}
+.appsection h3 {
+  font-size: 22px;
+}
+.row1 {
+  float: left;
+  width: 100%;
+  margin-top: 3em;
+  border-bottom: solid 1px #F2F2F2;
+}
+.crm {
+  float: left;
+  width: 60%;
+  position: relative;
+  top: -1em;
+}
+.bigin {
+  float: right;
+  width: 39%;
+  position: relative;
+  left: 1em;
+  top: 0.3em;
+  border-left: solid 1px #F2F2F2;
+}
+.row2 {
+  float: left;
+  width: 100%;
+}
+.campian {
+  float: left;
+  width: 33.3%;
+  border-right: solid 1px #F2F2F2;
+}
+.forms {
+  float: left;
+  width: 33.3%;
+}
+.sign {
+  float: right;
+  width: 32.3%;
+}
+.desk {
+  float: left;
+  border-right: solid 1px #F2F2F2;
+}
+.row3 {
+  float: left;
+  width: 100%;
+  border-bottom: solid 1px #F2F2F2;
+}
+.finance {
+  float: left;
+  width: 100%;
+  margin-top: 1.2em;
+}
+.finance p {
+  font-size: 14px;
+  font-family: roboto;
+  font-weight: 400;
+  width: 92%;
+  position: relative;
+  left: 2em;
+}
+.row4 {
+  float: left;
+  width: 100%;
+  padding: 1em;
+ 
+  border-bottom: solid 1px #F2F2F2;
+}
+.row7 {
+  float: left;
+  width: 100%;
+  border-bottom: solid 1px #F2F2F2;
+  padding: 1em;
+  
+}
+.row5 {
+  float: left;
+  width: 100%;
+  border-bottom: solid 1px #F2F2F2;
+  padding: 1em;
+  
+}
+.row6 {
+  float: left;
+  width: 100%;
+  border-bottom: solid 1px #F2F2F2;
+  padding: 1em;
+  
+}
+.voice {
+  float: left;
+  width: 33.3%;
+  border-right: solid 1px #F2F2F2;
+}
+.sprint {
+  float: left;
+  width: 33.3%;
+  border-right: solid 1px #F2F2F2;
+}
+.st {
+  float: left;
+  width: 33.3%;
+  border-right: solid 1px #F2F2F2;
+}
+.sheet {
+  float: left;
+  width: 33.3%;
+  border-right: solid 1px #F2F2F2;
+}
+.row11 {
+  position: relative;
+  bottom: -2em;
+  border-bottom: solid 1px #F2F2F2;
+}
+.meet {
+  position: relative;
+  bottom: 0.7em;
+  left: 1.4em;
+  border-left: ;
+}
+
+.mm {
+  float: left;
+  width: 40%;
+  position: relative;
+  top: -1.5em;
+}
+.hover {
+  cursor: pointer;
+}
+
+.row_lst {
+  float: left;
+  width: 100%;
+}
+.forms1 {
+  float: left;
+  margin-left: 1.7em;
+  border-right: solid 1px #F2F2F2;
+}
+.sign1 {
+  float: left;
+  margin-left: 2.9em;
+  border-right: solid 1px #F2F2F2;
+}
+.hover1 {
+  position: relative;
+  left: -1em;
+  cursor: pointer;
+}
+/**appsectionends**/
+.privacy_zoho {
+  float: left;
+  width: 100%;
+  text-align: center;
+  margin-top: 3em;
+  cursor: pointer;
+}
+.privacy_zoho h1 {
+  font-family: roboto;
+  font-size: 39px;
+  margin-top: 1.5em;
+  font-weight: 600;
+}
+.youtube {
+  float: left;
+  width: 100%;
+  margin-top: 6em;
+  margin-bottom: 3em;
+}
+.video {
+  float: left;
+  width: 48%;
+  position: relative;
+  left: 5em;
+}
+.customer {
+  float: right;
+  width: 52%;
+}
+/**privacyzohoends**/
+.partners {
+  float: left;
+  width: 100%;
+  margin-top: 3em;
+  margin-left: 1em;
+}
+
+.partners_1 {
+  float: left;
+  width: 20%;
+  margin-left: 13em;
+  margin-top: 0.9em
+}
+.partners_2 {
+  float: left;
+  width: 20%;
+  margin-left: 2em;
+}
+.partners_3 {
+  float: right;
+  width: 23%;
+  margin-right: 10em;
+}
+.partners h4 {
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: 600;
+ 
+}
+.partners p {
+  font-family: roboto;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+.ab1 {
+  position: relative;
+  top: 0.3em;
+  right: 0.2em;
+}
+.partners h6 {
+  font-family: roboto;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  letter-spacing: 0em;
+}
+/**partnersends**/
+.footer {
+  float: left;
+  width: 100%;
+  background-color: #333;
+  margin-top: 3em;
+  color: #CCC;
+}
+.footer_1 {
+  float: left;
+  width: 100%;
+  line-height: 1.8em;
+  margin-top: 2em;
+}
+.apps_footer {
+  float: left;
+  width: 20%;
+  margin-left: 3em;
+}
+.part{
+  float: left;
+  width: 20%;
+}
+.resource{
+  float: left;
+  width: 20%;
+}
+.about {
+  float: left;
+  width: 20%;
+}
+.contact {
+  float: right;
+  width: 16%;
+}
+.footer h3 {
+  font-family: roboto;
+  font-size: 22px;
+  font-weight: 600;
+}
+.footer_1 p {
+  font-family: roboto;
+  font-size: 14px;
+  cursor: pointer;
+font-weight: 600;
+}
+.footer_2 {
+  float: left;
+  width: 100%;
+}
+.form {
+  width: 63%;
+  float: left;
+  position: relative;
+  left: 16em;
+  padding: 0.7em;
+  border: solid 1px white;
+  background-color: #333;
+  color: #AAA;
+  font-family: roboto;
+  font-size: 15px;
+  text-transform: capitalize;
+}
+.search {
+  position: relative;
+  left: 15em;
+  border: solid 1px white;
+  width: 3.09%;
+  cursor: pointer;
+}
+.footer_3 {
+  float: left;
+  width: 100%;
+  font-family: roboto;
+  font-size: 13px;
+  word-spacing: 0.5em;
+  line-height: 22px;
+  text-align: center;
+  margin-top: 2em;
+}
+.footer_media {
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+/**footerends**/
